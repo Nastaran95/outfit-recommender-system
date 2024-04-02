@@ -1,0 +1,296 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName
+1163,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Sports,Nike Sahara Team India Fanwear Round Neck Jersey
+1164,Men,Apparel,Topwear,Tshirts,Blue,Winter,2015.0,Sports,Nike Men Blue T20 Indian Cricket Jersey
+1165,Men,Apparel,Topwear,Tshirts,Blue,Summer,2013.0,Sports,Nike Mean Team India Cricket Jersey
+1525,Unisex,Accessories,Bags,Backpacks,Navy Blue,Fall,2010.0,Casual,Puma Deck Navy Blue Backpack
+1526,Unisex,Accessories,Bags,Backpacks,Black,Fall,2010.0,Sports,Puma Big Cat Backpack Black
+1528,Men,Apparel,Topwear,Jackets,Black,Fall,2010.0,Sports,Puma Men Ferrari Black Fleece Jacket
+1529,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,Ferrari Tee
+1530,Men,Apparel,Topwear,Jackets,Red,Fall,2010.0,Sports,Puma Men Ferrari Track Jacket
+1531,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Casual,Puma Men Grey Solid Round Neck T-Shirt
+1532,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Casual,Puma Men Grey Leaping Cat T-shirt
+1533,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,Puma Men Cat Red T-shirt
+1534,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Casual,Puma Men Black Leaping Cat T-shirt
+1535,Unisex,Accessories,Headwear,Caps,Black,Fall,2010.0,Sports,Puma Unisex Logo Cap
+1536,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Puma Men Black Net Jersey
+1537,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Puma Men Red Net Jersey
+1538,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Puma Men Ferrari Track Black T-shirt
+1539,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Casual,Puma Men Ferrari Grey T-shirt
+1540,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Puma Men Ferrari Vintage Black Polo T-shirt
+1541,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Ballistic Spike White Green Shoe
+1542,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Ballistic Rubber Shoe
+1543,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2010.0,Casual,Puma Men Basket-Biz Sneaker
+1544,Men,Footwear,Shoes,Casual Shoes,White,Fall,2010.0,Casual,Puma Men's Basket Bump Sneaker
+1545,Men,Footwear,Shoes,Casual Shoes,White,Fall,2010.0,Casual,Puma Men's Speed Cat Shoe
+1546,Men,Footwear,Shoes,Casual Shoes,White,Fall,2010.0,Casual,Puma Men's Furore White Shoe
+1547,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2010.0,Casual,Puma Men's Ducati Sneaker
+1548,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Cell Exsis Sneaker
+1549,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Jiyu Slip On Sneaker
+1550,Unisex,Sporting Goods,Sports Equipment,Footballs,White,Fall,2010.0,Sports,Puma Cat Trainer-WBL Football
+1551,Unisex,Sporting Goods,Sports Equipment,Footballs,Orange,Fall,2010.0,Sports,Puma Power Cat Trainer-OB Football
+1552,Unisex,Sporting Goods,Sports Equipment,Footballs,White,Fall,2010.0,Sports,Puma Power Cat Trainer-WR Football
+1553,Unisex,Sporting Goods,Sports Equipment,Footballs,White,Fall,2010.0,Sports,Puma Power Cat Hard Ground Football
+1554,Unisex,Accessories,Water Bottle,Water Bottle,Blue,Fall,2010.0,Casual,Quechua  Blue Sipper
+1555,Unisex,Accessories,Water Bottle,Water Bottle,Purple,Fall,2010.0,Sports,Quechua Red Sipper
+1556,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Sports,Quechua Forclaz Large  Backpack - 50 ltr Orange
+1557,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Travel,Quechua Spacious Blue-Black Backpack
+1558,Unisex,Accessories,Water Bottle,Water Bottle,Blue,Fall,2010.0,Sports,Quechua Easy-to-Carry Blue Water Bottle
+1559,Unisex,Accessories,Bags,Backpacks,Blue,Summer,2011.0,Travel,Quechua Blue Light Backpack
+1561,Women,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Quechua Women Sweat Proof White T-shirt
+1562,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Sports,Quechua Men Sweat Proof Grey T-shirt
+1563,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Quechua Men Sweat Proof Blue T-shirt
+1565,Unisex,Accessories,Bags,Backpacks,Green,Summer,2011.0,Travel,Quechua Green Light Backpack
+1566,Men,Accessories,Headwear,Caps,Black,Summer,2011.0,Sports,Artengo Men Black Cap
+1567,Men,Apparel,Bottomwear,Shorts,Black,Fall,2010.0,Sports,Artengo Men Training Shorts
+1569,Men,Apparel,Bottomwear,Shorts,Black,Fall,2010.0,Sports,Artengo Men Black Tennis Shorts
+1570,Women,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Artengo Women Tennis Singlet
+1571,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Kalenji Men's Super Soft Sports Shoes
+1572,Men,Apparel,Bottomwear,Track Pants,Black,Fall,2010.0,Sports,Kalenji Mens Essential Training Track Pants
+1573,Women,Apparel,Bottomwear,Track Pants,Grey,Fall,2010.0,Sports,Kalenji Women Athletes Grey Track Pants
+1575,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Kipsta Men Sports White T-shirt
+1577,Unisex,Accessories,Headwear,Caps,Green,Fall,2010.0,Sports,Inesis  Slim Shady Cap
+1578,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Domyos Men Good Stroke Red T-shirt
+1579,Men,Apparel,Topwear,Jackets,Grey,Fall,2010.0,Sports,Domyos Men Grey Second Skin Jacket
+1580,Women,Apparel,Bottomwear,Swimwear,Black,Fall,2010.0,Sports,Nabaiji Women Cross-back Swimsuit
+1581,Unisex,Accessories,Headwear,Caps,Pink,Summer,2011.0,Sports,Nabaiji Unisex Silicone Swimming Cap
+1582,Unisex,Apparel,Bottomwear,Swimwear,Black,Summer,2011.0,Sports,Nabaiji Unisex Black Silicone Swimming Cap
+1583,Women,Apparel,Bottomwear,Swimwear,Black,Fall,2010.0,Sports,Nabaiji Women Black Swimsuit
+1584,Unisex,Apparel,Topwear,Jackets,White,Summer,2011.0,Casual,Domyos Unisex Feather-light Jacket
+1587,Men,Footwear,Shoes,Sports Shoes,White,Spring,2010.0,Sports,Kipsta Men Superfit Football White Shoe
+1588,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Domyos Men White Dry-Fit T-shirt
+1590,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Kipsta Men's F300 Football Shoe
+1591,Men,Apparel,Bottomwear,Shorts,Red,Fall,2010.0,Sports,Kipsta Men Red Shorts
+1592,Men,Footwear,Shoes,Sports Shoes,Red,Summer,2011.0,Sports,Kipsta Men's Superfit Football Red Shoe
+1594,Unisex,Footwear,Shoes,Casual Shoes,Grey,Fall,2012.0,Casual,Newfeel Unisex Grey Mesh Lightweight Shoe
+1595,Men,Apparel,Topwear,Tshirts,Black,Spring,2010.0,Sports,Domyos Men Good Stroke Black T-shirt
+1596,Men,Accessories,Water Bottle,Water Bottle,Pink,Fall,2010.0,Sports,Quechua Easy-to-Carry Pink Sipper
+1597,Women,Accessories,Bags,Handbags,Black,Summer,2011.0,Travel,Geonaute Women Black Outdoor Bag
+1598,Women,Accessories,Bags,Handbags,Blue,Summer,2011.0,Travel,Geonaute Women Blue Outdoor Bag
+1599,Women,Accessories,Bags,Handbags,Green,Summer,2011.0,Travel,Geonaute Women Green Outdoor Bag
+1603,Men,Apparel,Topwear,Sweatshirts,Navy Blue,Fall,2010.0,Casual,Reebok Men Hoops Athletic Navy Sweatshirt
+1604,Women,Apparel,Bottomwear,Track Pants,Blue,Fall,2010.0,Sports,Reebok Track Pants Women Blue
+1605,Women,Apparel,Bottomwear,Track Pants,Black,Fall,2010.0,Sports,Reebok Black Track Pant
+1607,Men,Apparel,Bottomwear,Track Pants,Blue,Fall,2010.0,Sports,Reebok Men trackpant- male Track Pants
+1608,Men,Apparel,Bottomwear,Track Pants,Blue,Fall,2010.0,Sports,Reebok Track Pants Jet Black
+1609,Women,Apparel,Topwear,Sweatshirts,Pink,Fall,2010.0,Sports,Reebok Women Boat-Neck Wildberry Sweatshirt
+1610,Women,Apparel,Topwear,Jackets,Navy Blue,Summer,2011.0,Casual,Reebok Navy Jacket
+1611,Women,Apparel,Topwear,Jackets,Black,Summer,2010.0,Sports,Reebok Knit Rib Women Black Jacket
+1612,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Reebok Orange & White Striped Polo T-shirt
+1613,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Reebok Men White Polo Tshirt
+1614,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Reebok T-shirt White Polo Tshirt
+1615,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2010.0,Casual,Reebok Men Navy Blue Polo T-shirt
+1616,Men,Apparel,Topwear,Tshirts,White,Summer,2010.0,Sports,Reebok Men's Shoot White T-Shirt
+1617,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Reebok Men Shoot T-Shirt Red
+1618,Men,Footwear,Shoes,Sports Shoes,White,Summer,2010.0,Sports,Reebok Men United Runner White
+1619,Men,Apparel,Bottomwear,Shorts,Grey,Fall,2010.0,Sports,Reebok Men Micro Shorts Grey and White
+1620,Men,Apparel,Bottomwear,Shorts,Blue,Fall,2010.0,Sports,Reebok Men Micro Shorts
+1621,Men,Apparel,Bottomwear,Shorts,Grey,Fall,2010.0,Sports,Reebok Men Micro Shorts Black and White
+1622,Men,Apparel,Topwear,Jackets,Navy Blue,Summer,2016.0,Casual,Reebok Navy Knit Rib Jacket
+1623,Unisex,Accessories,Bags,Backpacks,Red,Summer,2011.0,Casual,Reebok Unisex Red Backpack
+1624,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Sports,Reebok Silver-Black Laptop Backpack
+1625,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Domyos Men Quick Dry T-shirt
+1626,Unisex,Sporting Goods,Sports Equipment,Footballs,Blue,Summer,2011.0,Sports,Kipsta F300 Football Size 5 Football
+1627,Unisex,Sporting Goods,Sports Equipment,Footballs,White,Fall,2010.0,Sports,Kipsta F300 Football
+1628,Unisex,Sporting Goods,Sports Equipment,Basketballs,Brown,Summer,2011.0,Sports,Kipsta Xtra Bounce Basketball
+1634,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Inesis Water Repellent Canaveral Shoes
+1635,Unisex,Footwear,Shoes,Casual Shoes,Red,Spring,2011.0,Casual,Newfeel Unisex Red Comfy Shoes
+1636,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men Air Zoom Century Shoes
+1637,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men White Cricket Shoes
+1638,Unisex,Apparel,Bottomwear,Swimwear,Blue,Fall,2010.0,Sports,Nabaiji Swimming Goggles Blue Black
+1641,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2010.0,Sports,Reebok Men's Hex Run Pure Silver Shoe
+1642,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Reebok Men Winning Stride White Red
+1644,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Kipsta Men Loose Fit Round Neck Jersey Red
+1645,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Kipsta Men Loose Fit Round Neck Jersey Black
+1646,Women,Accessories,Bags,Backpacks,Grey,Summer,2011.0,Sports,Quechua Ultralight Backpack 16 Ltr Grey Bag
+1647,Unisex,Accessories,Bags,Backpacks,Green,Summer,2011.0,Sports,Quechua Unisex Ultralight 16 Ltr Green Backpack
+1648,Women,Accessories,Bags,Backpacks,Pink,Summer,2011.0,Travel,Quechua  Ultralight Backpack Purple 16 ltr Bag
+1649,Unisex,Footwear,Shoes,Casual Shoes,Blue,Spring,2012.0,Casual,Newfeel Unisex Comfy Cool Blue Shoe
+1651,Women,Apparel,Topwear,Tshirts,Pink,Fall,2010.0,Sports,Domyos Women Style Pink T-shirt
+1653,Men,Footwear,Shoes,Sports Shoes,Brown,Summer,2010.0,Sports,Reebok Men's Ventilator Ubiq Shoe
+1654,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Reebok Men's Frisker LP Shoe
+1656,Unisex,Accessories,Headwear,Caps,Blue,Summer,2012.0,Sports,Nike Unisex Odi Day Cap
+1657,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Reebok Men's White High Wire Shoe
+1658,Men,Apparel,Topwear,Jackets,Blue,Fall,2012.0,Sports,Nike Men Windrunner Blue Jacket
+1662,Men,Apparel,Topwear,Jackets,Navy Blue,Fall,2012.0,Sports,Nike Men Blue Windrunner Jacket
+1668,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,Reebok Men Playdry Full Sleeved T-shirt Red
+1670,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Casual,Reebok Men Green Polo T-shirt
+1671,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Casual,Reebok Men Black Polo T-shirt
+1673,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Reebok Mens Lagoon Black T-shirt
+1678,Men,Apparel,Topwear,Tshirts,Green,Fall,2010.0,Casual,Reebok Men Play Hard Cotton Green T-shirt
+1689,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Reebok Men Blue Polo T-shirt
+1697,Unisex,Accessories,Bags,Backpacks,Black,Fall,2010.0,Sports,Puma Deck Black Backpack
+1727,Unisex,Footwear,Shoes,Casual Shoes,Black,Winter,2015.0,Casual,Newfeel Unisex Black Lightweight Shoes
+1728,Unisex,Footwear,Shoes,Sports Shoes,Green,Fall,2010.0,Sports,Newfeel Unisex Green Sports Shoes
+1729,Unisex,Footwear,Shoes,Casual Shoes,White,Spring,2011.0,Casual,Newfeel Unisex White Shoes
+1730,Women,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Reebok Women Black Pink Frisker Shoe
+1731,Women,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Reebok Women White Blue Frisker Shoes
+1752,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Lotto Men Red Epic T-shirt
+1754,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Lotto Men Marcello Black T-shirt
+1755,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,Lotto Men Jasper Street Red T-shirt
+1756,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Lotto Men White Polo T-shirt
+1757,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Lotto Men Polo Slate Black Rugby T-shirt
+1758,Men,Apparel,Topwear,Jackets,White,Fall,2010.0,Sports,Lotto Men White Collared Jacket
+1759,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Sports,Lotto Men Epic Grey T-shirt
+1760,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Lotto Men Marcello White T-shirt
+1762,Women,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Lotto Women Cathy Blue T-shirt
+1763,Women,Apparel,Topwear,Tshirts,Pink,Summer,2011.0,Casual,Lotto Women Cathy Pink T-shirt
+1764,Women,Apparel,Bottomwear,Track Pants,Black,Fall,2010.0,Sports,Lotto Women Mid Cathy Track Pants
+1765,Women,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Lotto Women White T-shirt
+1766,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Inesis Men Blue Polo T-shirt
+1782,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Kalenji Men's Kapteren Black Shoe
+1783,Men,Footwear,Sandal,Sandals,Grey,Spring,2011.0,Sports,Quechua Men Grey Sandal
+1784,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men's Melbourne White-Red Shoe
+1785,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men Brighton White-Blue Shoe
+1786,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men's Court Logo White Shoe
+1787,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men Court Logo White-Silver Shoe
+1788,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men's Court-White-Blue Shoe
+1789,Men,Footwear,Shoes,Sports Shoes,Orange,Fall,2010.0,Sports,Lotto Men OSLO Grey-Orange Shoe
+1790,Unisex,Accessories,Bags,Backpacks,Beige,Fall,2010.0,Sports,Quechua Unisex Ultralight Beige Bag
+1791,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Sports,Quechua 10L Black Bag
+1792,Unisex,Accessories,Bags,Backpacks,Blue,Summer,2011.0,Sports,Newfeel Marine Blue Bag
+1793,Unisex,Accessories,Bags,Backpacks,Green,Summer,2011.0,Travel,Quechua 10L Green Bag
+1794,Unisex,Accessories,Bags,Backpacks,Brown,Summer,2011.0,Sports,Newfeel Brown 22L Bag
+1795,Men,Accessories,Bags,Backpacks,Black,Fall,2010.0,Sports,Newfeel 22L Black Bag
+1796,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Domyos Men Performance Blue T-shirt
+1798,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Domyos Men Slt Compression T-shirt
+1799,Men,Apparel,Bottomwear,Track Pants,White,Summer,2011.0,Sports,Domyos Men Blue & White Tracksuit
+1800,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Sports,Quechua Unisex Black Solid Backpack
+1801,Women,Accessories,Bags,Backpacks,Pink,Summer,2011.0,Sports,Quechua Women 10L Pink Bag
+1802,Men,Footwear,Shoes,Sports Shoes,Brown,Spring,2011.0,Sports,Quechua Men's Arpenaz Flex Yellow Shoe
+1803,Unisex,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Tribord Unisex Black T-shirt
+1804,Men,Apparel,Bottomwear,Shorts,Black,Fall,2010.0,Sports,Kalenji Men Essential Baggy Black Shorts
+1805,Men,Footwear,Shoes,Casual Shoes,Beige,Fall,2010.0,Casual,Quechua Men Forclaz 1OO Beige Shoe
+1806,Men,Footwear,Sandal,Sandals,Brown,Spring,2011.0,Casual,Quechua Men Arpenaz Brown Sandal
+1807,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,Quechua Men G1 Techfresh Red T-shirt
+1808,Unisex,Accessories,Water Bottle,Water Bottle,Purple,Fall,2010.0,Sports,Quechua Aluminium Print Water Bottle
+1809,Women,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Decathlon Profilter Women Blue T-shirt
+1810,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,Tribord Profilter Red Men T-shirt
+1811,Men,Apparel,Topwear,Tshirts,Orange,Fall,2010.0,Sports,Solognac Men Orange T-shirt
+1812,Men,Apparel,Topwear,Tshirts,Green,Fall,2010.0,Sports,Solognac Men Green T-shirt
+1813,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Solognac Men Dark Blue T-shirt
+1814,Men,Apparel,Topwear,Tshirts,Brown,Fall,2010.0,Sports,Solognac Men Chocolate Brown  T-shirt
+1827,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men's Downshifter White/Blue Shoe
+1828,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men's Air Afterburner Shoe
+1831,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Nike Men's Air Impetus Shoe
+1832,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Nike Lunarswift Shoe
+1833,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Nike Men's Ballista Shoe
+1836,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2010.0,Sports,Nike Air Visi Sleek Shoes
+1841,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Calibre Convertible Spike Shoe
+1842,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Puma Men's Calibre Rubber Shoe
+1844,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Mens D day T-shirt
+1845,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Mens Surfer T-shirt
+1846,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Men Buddha Bless You T-shirt
+1847,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Mens Messy T-shirt
+1848,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Inkfruit Men Wolf
+1849,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Inkfruit Mens Unbreakable Mumbai T-shirt
+1852,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Men Ride It Or Die T-shirt
+1853,Men,Apparel,Topwear,Tshirts,Yellow,Summer,2011.0,Casual,Inkfruit Mens Little Bit More T-shirt
+1854,Men,Apparel,Topwear,Tshirts,Purple,Summer,2011.0,Casual,Inkfruit Mens Pencho T-shirt
+1855,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Inkfruit Mens Chain Reaction T-shirt
+1856,Men,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Casual,Inkfruit Men Rebel Without a Clue T-shirt
+1857,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Inkfruit Mens Life After Midnight T-shirt
+1859,Men,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Casual,Inkfruit Men Eye Opener T-shirt
+1860,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Inkfruit Mens Shiva T-shirt
+1861,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Inkfruit Men Graff Wars T-shirt
+1862,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Inkfruit Mens Urban Warfare T-shirt
+1863,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Inkfruit Men Night Wolf T-shirt
+1865,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Inkfruit Men Operation Kick
+1866,Men,Apparel,Topwear,Tshirts,Maroon,Summer,2011.0,Casual,Inkfruit Mens My Pet T-shirt
+1867,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Men Nayak Nahi T-shirt
+1868,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Inkfruit Mens Facebook Like T-shirt
+1869,Men,Apparel,Topwear,Tshirts,Navy Blue,Winter,2010.0,Casual,FIFA Mens 1904 Navy Blue T-shirt
+1870,Men,Apparel,Topwear,Tshirts,Black,Winter,2010.0,Casual,FIFA Mens 1990 World Cup Black T-shirt
+1871,Men,Apparel,Topwear,Tshirts,White,Winter,2010.0,Casual,FIFA Mens 1990 World Cup White T-shirt
+1872,Men,Apparel,Topwear,Tshirts,White,Winter,2010.0,Casual,FIFA Mens 1962 World Cup White T-shirt
+1875,Men,Apparel,Topwear,Tshirts,Green,Winter,2010.0,Casual,FIFA Mens 1990 World Cup Edition T-shirt
+1876,Men,Apparel,Topwear,Tshirts,White,Winter,2010.0,Casual,FIFA Mens Mexican Wave White T-shirt
+1877,Men,Apparel,Topwear,Tshirts,Grey,Winter,2010.0,Casual,FIFA Mens Mexican Wave Grey T-shirt
+1879,Men,Apparel,Topwear,Tshirts,Red,Winter,2010.0,Casual,FIFA Mens 1982 Spain Red T-shirt
+1880,Men,Apparel,Topwear,Tshirts,Black,Winter,2010.0,Casual,FIFA Mens World Cup Champions Black T-shirt
+1881,Men,Apparel,Topwear,Tshirts,Grey,Winter,2010.0,Casual,FIFA Mens France 1938 Grey T-shirt
+1882,Men,Apparel,Topwear,Tshirts,Red,Winter,2010.0,Casual,FIFA Mens Code Collection Red T-shirt
+1883,Men,Apparel,Bottomwear,Track Pants,Grey,Winter,2010.0,Casual,FIFA Mens Heritage Collection Grey Track Pants
+1884,Men,Apparel,Bottomwear,Track Pants,Navy Blue,Winter,2010.0,Casual,FIFA Mens 1905 Heritage Collection Track Pants
+1885,Men,Apparel,Bottomwear,Shorts,Grey,Winter,2010.0,Casual,FIFA Mens 1904 Heritage Shorts
+1886,Men,Apparel,Topwear,Tshirts,Grey,Winter,2010.0,Casual,FIFA Mens Red Card Grey T-shirt
+1887,Men,Apparel,Topwear,Tshirts,Green,Winter,2010.0,Casual,FIFA Mens Essentials Green T-shirt
+1888,Men,Apparel,Topwear,Tshirts,Black,Winter,2010.0,Casual,FIFA Mens Essentials Black T-shirt
+1889,Men,Apparel,Topwear,Tshirts,Navy Blue,Winter,2010.0,Casual,Fifa Men Essentials Navy Blue T-shirt
+1890,Men,Apparel,Topwear,Tshirts,Red,Winter,2010.0,Casual,FIFA Mens Essentials Red T-shirt
+1891,Men,Apparel,Topwear,Tshirts,White,Winter,2010.0,Casual,FIFA Mens Essentials White T-shirt
+1892,Men,Apparel,Topwear,Sweatshirts,Blue,Winter,2010.0,Casual,FIFA Men Full Sleeves Hoody Sweatshirt
+1895,Men,Apparel,Topwear,Sweatshirts,Black,Winter,2010.0,Casual,FIFA Men Full Sleeves Hoody Sweatshirt
+1897,Men,Apparel,Topwear,Tshirts,Blue,Winter,2010.0,Sports,FIFA Men Germany Blue Jersey
+1902,Men,Apparel,Topwear,Tshirts,Blue,Winter,2010.0,Sports,FIFA Men Blue Jersey
+1903,Men,Apparel,Topwear,Tshirts,Yellow,Winter,2010.0,Sports,FIFA Men Brazil Yellow Jersey
+1904,Men,Apparel,Topwear,Tshirts,Blue,Winter,2010.0,Sports,FIFA Men Brazil Blue & Yellow Jersey
+1905,Men,Apparel,Topwear,Tshirts,Blue,Winter,2010.0,Casual,FIFA Mens 1904 Football Federation T-shirt
+1906,Men,Apparel,Topwear,Tshirts,Cream,Winter,2010.0,Casual,FIFA Mens 1905 Football Federation T-shirt
+1907,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Nike Mens Classic Black T-shirt
+1909,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Nike Mens Classic Sportswear T-shirt
+1910,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Nike Men's Classic Patterned T-shirt
+1911,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Nike Mens Manchester United Blues T-shirt
+1912,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Nike Mens Running White T-shirt
+1913,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Nike Mens Seize Victory Black T-shirt
+1915,Unisex,Accessories,Accessories,Water Bottle,Yellow,Summer,2011.0,Casual,Quechua Yellow Sipper
+1916,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Puma Men's Game Point Shoes
+1917,Men,Footwear,Shoes,Casual Shoes,White,Fall,2010.0,Casual,Puma Men White Sneakers
+1918,Unisex,Accessories,Bags,Backpacks,Blue,Fall,2010.0,Sports,Domyos 300 Blue Bag
+1919,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2010.0,Casual,Puma Men's Choco Brown Casual Shoes
+1920,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Puma Men Graffiti FX Shoes
+1922,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Puma Mens Slim Fit Black Polo T-shirt
+1923,Women,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Kalenji Women Running Shoe
+1924,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Puma Mens Racing White T-shirt
+1925,Unisex,Accessories,Bags,Backpacks,Black,Fall,2010.0,Sports,Quechua Black Bag
+1926,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Puma Mens Ocean Racing Blues T-shirt
+1927,Unisex,Accessories,Bags,Backpacks,Navy Blue,Summer,2011.0,Sports,Domyos Navy Blue Bag
+1928,Men,Apparel,Topwear,Tshirts,Green,Fall,2010.0,Casual,Puma Mens One Love T-shirt
+1929,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Quechua Men's Lighweight Black Shoe
+1930,Unisex,Accessories,Bags,Backpacks,Red,Fall,2010.0,Sports,Quechua 22L Red Bag
+1931,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2010.0,Casual,Puma Men's Jamaica Jam Navy Blue T-shirt
+1932,Women,Footwear,Shoes,Casual Shoes,Grey,Fall,2010.0,Casual,Quechua Women Arpenaz Flex Grey Shoe
+1933,Unisex,Accessories,Bags,Backpacks,Grey,Fall,2010.0,Sports,Quechua Arpenaz 20L Dark Grey Bag
+1934,Unisex,Accessories,Bags,Backpacks,Purple,Summer,2011.0,Sports,Quechua Forclaz 25L Air Purple Backpack
+1935,Unisex,Accessories,Bags,Backpacks,Black,Summer,2011.0,Sports,Quechua 22L Blue Bag
+1936,Unisex,Accessories,Bags,Backpacks,Brown,Fall,2010.0,Sports,Quechua Arpenaz 30L Brown Bag
+1937,Women,Footwear,Shoes,Sports Shoes,Black,Fall,2010.0,Sports,Kalenji Women Black Pink Shoe
+1938,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Puma Men's Jamaica Jam Blues T-shirt
+1939,Women,Accessories,Bags,Handbags,Blue,Summer,2011.0,Sports,Geonaute Women Large Outdoor Bag Bag
+1941,Women,Accessories,Bags,Handbags,Brown,Summer,2011.0,Sports,Domyos Brown Bag
+1942,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Puma Mens Reggae All Night White T-shirt
+1943,Unisex,Accessories,Bags,Duffel Bag,Grey,Summer,2011.0,Casual,Domyos Grey Duffle Duffle Bag
+1944,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,Puma Mens Reggae All Night Blues T-shirt
+1945,Men,Apparel,Topwear,Tshirts,Green,Fall,2010.0,Sports,Puma Mens Reggae All Night Green T-shirt
+1946,Men,Apparel,Topwear,Tshirts,Green,Fall,2010.0,Casual,Puma Mens One Love Reggae Polo T-shirt
+1947,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Puma Mens Cricket Way of Life T-shirt
+1948,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Casual,Puma Mens Keyboard Sidebar Black Polo T-shirt
+1949,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Casual,Puma Mens Keyboard Sidebar White Polo T-shirt
+1950,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Casual,Puma Mens Colour Splash T-shirt
+1951,Women,Footwear,Shoes,Sports Shoes,Purple,Fall,2011.0,Sports,Puma Women Eco Funky Shoes
+1962,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,ADIDAS Men's Duramo Leather Shoe
+1963,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,ADIDAS Men's Azaro White Shoe
+1964,Men,Footwear,Shoes,Casual Shoes,Blue,Winter,2010.0,Casual,ADIDAS Men's Blue Canvas Shoe
+1966,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Domyos Mens Compression Black T-shirt
+1972,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,Kalenji Mens White T-shirt
+1973,Men,Apparel,Topwear,Tshirts,Brown,Fall,2010.0,Casual,Quechua Mens Brown T-shirt
+1976,Men,Apparel,Bottomwear,Shorts,White,Summer,2011.0,Casual,Tribord Mens Short Cargo Shorts
+1977,Men,Apparel,Bottomwear,Shorts,Grey,Summer,2011.0,Casual,Tribord Mens Grey Cargo Shorts
+1978,Women,Apparel,Topwear,Tops,Yellow,Fall,2010.0,Casual,Puma Women Yellow Sleeveless Top
+1981,Women,Apparel,Bottomwear,Shorts,Green,Fall,2010.0,Casual,Puma Women's Island Green Shorts
+1982,Women,Apparel,Bottomwear,Shorts,Purple,Fall,2010.0,Casual,Puma Women's Island Shorts Purple
+1983,Women,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,ADIDAS Women Graphic Blue T-shirt
+1984,Women,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,ADIDAS Women Graphic White T-shirt
+1985,Women,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,ADIDAS Womens Classic Red T-shirt
+1986,Women,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,ADIDAS Womens Blue V Neck T-shirt
+1988,Women,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Sports,ADIDAS Womens Red Tank T-shirt
+1989,Women,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,ADIDAS Womens Black Tank Fitted T-shirt
+1990,Women,Apparel,Topwear,Tshirts,Green,Summer,2011.0,Sports,ADIDAS Women's New Striped Tank T-shirt
+1991,Women,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Casual,ADIDAS Womens Blue  Polo T-shirt
+1992,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2010.0,Sports,Puma Men's Heroes T-shirt
+1993,Women,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Casual,Puma Women Femme Fatale T-shirt
+1994,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2010.0,Sports,Puma Women's Powergirls T-shirt
+1995,Men,Apparel,Topwear,Tshirts,Red,Fall,2010.0,Casual,ADIDAS Mens Crew Red T-shirt
+1996,Men,Apparel,Topwear,Tshirts,Grey,Fall,2010.0,Sports,ADIDAS Mens Crew Grey T-shirt
+1997,Men,Apparel,Bottomwear,Shorts,Grey,Fall,2010.0,Sports,Puma Men's Grey Sports Shorts
+1998,Men,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,ADIDAS Mens Fitted T-shirt
+1999,Men,Apparel,Bottomwear,Track Pants,Grey,Fall,2010.0,Casual,Puma Men's Grey Track Pants
