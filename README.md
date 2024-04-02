@@ -15,7 +15,7 @@ presentation.(pdf/pptx) -> prepared presentation
 
 sample_inputs -> a folder containing the prepared input samples to test the system
 
-## requirements
+## Requirements
 
 `python3.8`
 `numpy==1.24.3`
@@ -32,14 +32,14 @@ sample_inputs -> a folder containing the prepared input samples to test the syst
 
 
 
-## run in python
+## Run in python
 
 1- Install requirements:
 ``` pip install -r requirements.txt ```
 
 2- Run the app: ``` python3.8 app.py```
 
-## run in Docker
+## Run in Docker
 
 1- building images:
 ```docker build . -t outfit-rs```
