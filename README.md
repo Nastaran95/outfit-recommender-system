@@ -1,12 +1,19 @@
 
 # Outfit recommender system
 
-This repository is the implementation of a simple outfir recommender system based on user input images.
+This repository is the implementation of an outfit recommender system based on user input images.
 
 ## Files description
 
-app.py -> the main file of the application
+app.py -> The main file of the application responsible for handling user requests and generating recommendations.
+
 preprocessing.ipynb -> included results of data analysis, histograms, clustering and evaluation of various feature extractor neural networks
+
+embedding_resnet50_resnet18.pt -> extracted feature embeddings from product images by concatenation of ResNet50 and ResNet18 feature vectors
+
+presentation.(pdf/pptx) -> prepared presentation
+
+sample_inputs -> a folder containing the prepared input samples to test the system
 
 ## requirements
 
@@ -39,4 +46,4 @@ preprocessing.ipynb -> included results of data analysis, histograms, clustering
 
 2- running the container:
 ```docker run -p 8080:8080 outfit-rs ```
-Access the application at http://localhost:8080.
+Access the application at http://127.0.0.1:8080/.
